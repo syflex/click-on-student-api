@@ -84,6 +84,10 @@
                     Click On Kaduna Student List API
                 </div>
 
+                <div>
+                    <a href="" class="btn btn-success">Download our student directory app</a>
+                </div>
+
                 <div class="links">
                     <a href="https://laravel.com/docs">Click On Kaduna</a>
                     <a href="https://laracasts.com">Kaduna State Gorvernment</a>
